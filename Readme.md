@@ -1,3 +1,8 @@
+## Deployed App
+
+Check out the live version of the app: https://shiny-alfajores-6d41e2.netlify.app/
+
+
 # CRUD App Documentation
 
 This documentation provides an overview of a CRUD (Create, Read, Update, Delete) web application developed using HTML, Bootstrap, and JavaScript. The application is designed to manage user data through an interactive web interface.
